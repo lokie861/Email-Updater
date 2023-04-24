@@ -4,7 +4,7 @@ import imaplib
 
 M=imaplib.IMAP4_SSL('imap.gmail.com')
 mail_id='lokie2301@gmail.com'
-password='uhpzccrlakvojlbt'
+password=''
 
 '''#creating an boject for the smtp
 smtp_obj = smtplib.SMTP('smtp.gmail.com',587)
