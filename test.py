@@ -4,7 +4,7 @@ from main import speak
 import re
 
 EMAIL = 'lokie2301@gmail.com'
-PASSWORD = 'uhpzccrlakvojlbt'
+PASSWORD = ''
 SERVER = 'imap.gmail.com'
 
 # connect to the server and go to its inbox
